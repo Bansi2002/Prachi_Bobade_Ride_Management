@@ -215,6 +215,12 @@ app_license = "MIT"
 # ]
 
 
-fixtures = [
-    "Vehicle Ride", "Customer", "Item","Ride Booking"
+fixtures = [{
+    "doctype": "Vehicle Ride",
+    "filters": [["name", "in", ("sansakr","Mayur","Prachi")]],
+},
+{
+    "doctype": "Ride Booking",
+    "filters": [["name", "in", ("sansakr","Mayur","Prachi")]],
+}
 ]
