@@ -1,0 +1,86 @@
+[
+ {
+  "amended_from": null,
+  "booking_date": null,
+  "customer": "Prachi",
+  "customer_name": "Prachi",
+  "docstatus": 0,
+  "doctype": "Ride Booking",
+  "estimated_km": 0.0,
+  "make": null,
+  "modified": "2024-10-16 16:59:55.084759",
+  "name": "Prachi",
+  "phone_number": "",
+  "price_per_km": "1000",
+  "return_date": null,
+  "services": [
+   {
+    "amended_from": null,
+    "amount": 1500.0,
+    "parent": "Prachi",
+    "parentfield": "services",
+    "parenttype": "Ride Booking",
+    "service": "Tourist Guides"
+   }
+  ],
+  "total_amount": 0.0,
+  "type": "good",
+  "vehicle": "Prachi"
+ },
+ {
+  "amended_from": null,
+  "booking_date": "2024-10-16",
+  "customer": "abcd",
+  "customer_name": "abcd",
+  "docstatus": 0,
+  "doctype": "Ride Booking",
+  "estimated_km": 0.0,
+  "make": null,
+  "modified": "2024-10-16 17:00:20.064039",
+  "name": "sansakr",
+  "phone_number": null,
+  "price_per_km": "100",
+  "return_date": "2024-10-22",
+  "services": [
+   {
+    "amended_from": null,
+    "amount": 500.0,
+    "parent": "sansakr",
+    "parentfield": "services",
+    "parenttype": "Ride Booking",
+    "service": "Wi-Fi Access"
+   }
+  ],
+  "total_amount": 0.0,
+  "type": "neut",
+  "vehicle": "sansakr"
+ },
+ {
+  "amended_from": null,
+  "booking_date": "2024-10-29",
+  "customer": "Prachi",
+  "customer_name": "Prachi",
+  "docstatus": 0,
+  "doctype": "Ride Booking",
+  "estimated_km": 0.0,
+  "make": null,
+  "modified": "2024-10-16 17:00:41.640826",
+  "name": "Mayur",
+  "phone_number": "",
+  "price_per_km": "233",
+  "return_date": "2024-10-01",
+  "services": [
+   {
+    "amended_from": null,
+    "amount": 1500.0,
+    "parent": "Mayur",
+    "parentfield": "services",
+    "parenttype": "Ride Booking",
+    "service": "Tourist Guides"
+   }
+  ],
+  "total_amount": 0.0,
+  "type": "bad",
+  "vehicle": "Mayur"
+ }
+]

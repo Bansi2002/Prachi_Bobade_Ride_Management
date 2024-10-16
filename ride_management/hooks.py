@@ -213,3 +213,8 @@ app_license = "MIT"
 # auth_hooks = [
 # 	"ride_management.auth.validate"
 # ]
+
+
+fixtures = [
+    "Vehicle Ride", "Customer", "Item","Ride Booking"
+]

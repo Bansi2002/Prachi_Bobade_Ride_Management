@@ -1,0 +1,32 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Vehicle Ride",
+  "image": "/private/files/Screenshot from 2024-04-04 18-39-16.png",
+  "make": null,
+  "modified": "2024-10-16 16:37:26.901417",
+  "name": "Prachi",
+  "price_per_k": 1000.0,
+  "type": "good"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Vehicle Ride",
+  "image": "/private/files/Screenshot from 2024-10-09 13-50-22.png",
+  "make": null,
+  "modified": "2024-10-16 16:37:41.048716",
+  "name": "Mayur",
+  "price_per_k": 233.0,
+  "type": "bad"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Vehicle Ride",
+  "image": "/private/files/Screenshot from 2024-10-14 18-19-49.png",
+  "make": null,
+  "modified": "2024-10-16 16:37:58.828073",
+  "name": "sansakr",
+  "price_per_k": 100.0,
+  "type": "neut"
+ }
+]
